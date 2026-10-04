@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Micoandar Justinus Marbun</h1>
 <h3 align="center">A passionate full-stack developer from Bekasi, Indonesia</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=micoandar&label=Profile%20views&color=0e75b6&style=flat" alt="micoandar" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=micoandar" alt="micoandar" /></a> </p>
+
+- 📫 How to reach me **micoandar@gmail.com**
+
+- ⚡ Fun fact **Hip-hop is my favorite music genre.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
