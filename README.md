@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **micoandar@gmail.com**
 
-- ⚡ Fun fact **Hip-hop is my favorite music genre.**
+- ⚡ Fun fact **I enjoy exploring and figuring out how things work.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
