@@ -1,14 +1,30 @@
-# Micoandar Justinus Marbun
-### Full-Stack Developer | AI/ML Engineer | Computer Vision
+<!-- ================= HEADER ================= -->
+<div align="center">
+  
+  <!-- Banner Gradasi Gelombang -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=220&section=header&text=Micoandar%20Justinus%20Marbun&fontSize=45&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Computer%20Vision&descAlignY=55&descSize=18" alt="Header Banner" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micoandar-justinus-marbun-3a86b5438/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:micoandar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/micoandar)
+  <!-- Badge Kontak -->
+  <br>
+  <a href="https://www.linkedin.com/in/micoandar-justinus-marbun-3a86b5438/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:micoandar@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/micoandar">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=micoandar&style=for-the-badge&color=blueviolet)
+  <!-- Profile Views Counter -->
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=micoandar&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 
----
+</div>
 
+<br>
+
+<!-- ================= ABOUT ME ================= -->
 ## About Me
 
 ```yaml
