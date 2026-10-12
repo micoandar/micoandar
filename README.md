@@ -4,10 +4,8 @@
   <!-- Banner Gradasi Gelombang -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=220&section=header&text=Micoandar%20Justinus%20Marbun&fontSize=45&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Computer%20Vision&descAlignY=55&descSize=18" alt="Header Banner" width="100%" />
 
-  <!-- Tagline -->
-  <h2>End-to-End AI & Full-Stack Development 🛠️</h2>
-
   <!-- Badge Kontak -->
+  <br>
   <a href="https://www.linkedin.com/in/micoandar-justinus-marbun-3a86b5438/">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
