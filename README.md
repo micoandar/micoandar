@@ -3,11 +3,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=220&section=header&text=Micoandar%20Justinus%20Marbun&fontSize=42&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Computer%20Vision&descAlignY=55&descSize=18" alt="Header Banner" width="100%" />
 
-  <a href="https://github.com/micoandar">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&lines=Building+end-to-end+AI%2FML+workflows;Computer+Vision+%C2%B7+YOLO+%C2%B7+Edge+AI;Web+%26+Android+Developer;Open+to+work+%E2%80%94+Fresh+Graduate+2026" alt="Typing SVG" />
-  </a>
-
-  <br><br>
+  <br>
 
   <a href="https://www.linkedin.com/in/micoandar-justinus-marbun-3a86b5438/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:micoandar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
