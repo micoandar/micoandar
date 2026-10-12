@@ -36,7 +36,7 @@ fun_fact   : "I enjoy exploring and figuring out how things work."
 - 🔭 Experienced in **end-to-end AI/ML workflows** — dataset engineering with Roboflow, YOLO model training, web integration, and edge AI deployment.
 - 🧠 Strong in **Computer Vision**: object detection (YOLOv8, YOLO11, YOLO26), classification, and integrating intelligent systems into web & mobile apps.
 - 🎓 **Bachelor's Thesis**: on-device food ingredient detection and smart recipe recommendation (YOLO on Android).
-- 🏆 **Certified Programmer** — National Professional Certification Board (BNSP/LSP), 2025.
+- 🏆 **Certified Programmer** — National Professional Certification Board (BNSP/LSP), 2026.
 - 🤝 Open to collaborate on full-stack web development, computer vision, and applied AI projects.
 
 ---
