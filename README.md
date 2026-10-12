@@ -1,8 +1,11 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
   
-  <!-- Banner Gradasi Gelombang -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=220&section=header&text=Micoandar%20Justinus%20Marbun&fontSize=45&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Computer%20Vision&descAlignY=55&descSize=18" alt="Header Banner" width="100%" />
+  <!-- Banner Gradasi Gelombang Robotik (Cyan - Biru Metalik - Ungu Neon) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=%F0%9F%A4%96%20Micoandar%20Justinus%20Marbun&fontSize=42&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Computer%20Vision&descAlignY=58&descSize=17&animation=fadeIn" alt="Header Banner" width="100%" />
+
+  <!-- Sub-title Robotik -->
+  <h3>⚡ <i>"Building Intelligent Machines, One Line at a Time"</i> ⚡</h3>
 
   <!-- Badge Kontak -->
   <br>
@@ -18,17 +21,21 @@
 
   <!-- Profile Views Counter -->
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=micoandar&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=micoandar&style=for-the-badge&color=00e5ff&label=ROBOT+VISITORS" alt="Profile Views" />
 
 </div>
 
 <br>
 
 <!-- ================= ABOUT ME ================= -->
-## About Me
+## 🤖 About Me
 
 ```yaml
+# ==========================================
+# SYSTEM PROFILE :: UNIT-MJM-2026
+# ==========================================
 name       : Micoandar Justinus Marbun
+codename   : MJM-Bot
 role       : Full-Stack Developer | AI/ML Engineer | Computer Vision
 location   : Bekasi, Indonesia 🇮🇩
 education  : B.Sc Informatics Engineering — Universitas Gunadarma
@@ -36,6 +43,7 @@ GPA        : 3.76/4.00 · Class of 2026
 focus      : [Web, AI, & Mobile]
 learning   : [AI-Driven Web Development, Advanced Backend & Cloud Architecture]
 fun_fact   : "I enjoy exploring and figuring out how things work."
+status     : [ONLINE] 🟢 · [LEARNING] 📡 · [BUILDING] ⚙️
 ```
 
 - 🔭 Experienced in building **end-to-end AI/ML workflows** — from dataset engineering with Roboflow and YOLO model training to web integration and edge AI deployment.
