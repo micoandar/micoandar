@@ -164,11 +164,11 @@ On-device food ingredient detection with rule-based recipe matching and Gemini-g
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micoandar&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micoandar&layout=compact&theme=radical&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=micoandar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=micoandar&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" />
 </p>
 
 <p align="left">
@@ -178,7 +178,6 @@ On-device food ingredient detection with rule-based recipe matching and Gemini-g
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=micoandar&theme=redical&hide_border=true" />
 </p>
-
 ---
 
 ## Let's Connect & Collaborate
