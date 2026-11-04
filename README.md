@@ -38,7 +38,7 @@ fun_fact   : "I enjoy exploring and figuring out how things work."
 - 🎓 **Bachelor's Thesis**: on-device food ingredient detection and smart recipe recommendation (Android-based).
 - 🏆 **Certified Programmer** — National Professional Certification Board (BNSP/LSP), 2026.
 - 🎓 **Intro to Software Engineering** — Coding Camp (RevoU), 2026.
-- 🤝 Open to collaborate on full-stack web development, software engineering, and applied AI projects.
+- 🤝 Open to collaborate on full-stack web development and software engineering.
 
 ---
 
