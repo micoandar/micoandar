@@ -28,17 +28,17 @@ role       : Full-Stack Developer | Software Engineer
 location   : Bekasi, Indonesia 🇮🇩
 education  : B.Sc Informatics Engineering — Universitas Gunadarma
 GPA        : 3.76 / 4.00 · Class of 2026
-focus      : [Web, AI, & Mobile]
-learning   : [AI-Driven Web Development, Advanced Backend & Cloud Architecture]
+focus      : [Web Development, Backend Architecture, Applied AI]
+learning   : [Advanced Cloud Architecture, System Design, Next.js Ecosystem]
 fun_fact   : "I enjoy exploring and figuring out how things work."
 </pre>
 
-- 🔭 Experienced in **end-to-end AI/ML workflows** — dataset engineering with Roboflow, YOLO model training, web integration, and edge AI deployment.
-- 🧠 Strong in **Computer Vision**: object detection (YOLOv8, YOLO11, YOLO26), classification, and integrating intelligent systems into web & mobile apps.
-- 🎓 **Bachelor's Thesis**: on-device food ingredient detection and smart recipe recommendation (YOLO on Android).
+- 🔭 Experienced in **end-to-end full-stack development** — from database architecture and secure RESTful API design to responsive frontend interfaces and cloud deployment.
+- 🧠 Strong in **Software Engineering**: designing scalable web applications, integrating modern tech stacks (React, Next.js, FastAPI, Laravel), and applying AI/Computer Vision for added value.
+- 🎓 **Bachelor's Thesis**: on-device food ingredient detection and smart recipe recommendation (Android-based).
 - 🏆 **Certified Programmer** — National Professional Certification Board (BNSP/LSP), 2026.
 - 🎓 **Intro to Software Engineering** — Coding Camp (RevoU), 2026.
-- 🤝 Open to collaborate on full-stack web development, computer vision, and applied AI projects.
+- 🤝 Open to collaborate on full-stack web development, software engineering, and applied AI projects.
 
 ---
 
@@ -114,15 +114,13 @@ fun_fact   : "I enjoy exploring and figuring out how things work."
     </td>
   </tr>
   <tr>
-    <td><b>🚀 DevOps & IoT</b></td>
+    <td><b>🚀 DevOps & Cloud</b></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       <img src="https://img.shields.io/badge/Cloud_Deployment-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-      <img src="https://img.shields.io/badge/Mikrotik-293239?style=flat-square&logo=mikrotik&logoColor=white" />
-      <img src="https://img.shields.io/badge/Arduino_/_IoT-00979D?style=flat-square&logo=arduino&logoColor=white" />
     </td>
   </tr>
 </table>
