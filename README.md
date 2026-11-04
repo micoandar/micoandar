@@ -76,12 +76,11 @@ fun_fact   : "I enjoy exploring and figuring out how things work."
     <td>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=postman&logoColor=white" />
       <img src="https://img.shields.io/badge/Authentication-3C3C3D?style=flat-square&logo=auth0&logoColor=white" />
+      <img src="https://img.shields.io/badge/Authorization-4B5563?style=flat-square&logo=jsonwebtoken&logoColor=white" />
       <img src="https://img.shields.io/badge/RBAC-4B5563?style=flat-square&logo=keepassxc&logoColor=white" />
       <img src="https://img.shields.io/badge/CSRF_Protection-6B7280?style=flat-square&logo=shield&logoColor=white" />
-      <img src="https://img.shields.io/badge/CORS-1F2937?style=flat-square&logo=cloudflare&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -120,7 +119,6 @@ fun_fact   : "I enjoy exploring and figuring out how things work."
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" />
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cloud_Deployment-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
     </td>
   </tr>
 </table>
